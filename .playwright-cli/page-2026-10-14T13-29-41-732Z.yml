@@ -1,0 +1,177 @@
+- generic [ref=e2]:
+  - link "Skip to content" [ref=e3] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link "SaharaSetu home" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e7]:
+          - strong [ref=e8]: SaharaSetu
+          - generic [ref=e9]: Government Schemes Made Simple
+      - navigation "Main navigation" [ref=e10]:
+        - link "Home" [ref=e11] [cursor=pointer]:
+          - /url: /
+        - button "Schemes" [ref=e12] [cursor=pointer]
+        - link "How It Works" [ref=e13] [cursor=pointer]:
+          - /url: "#how-it-works"
+        - link "About" [ref=e14] [cursor=pointer]:
+          - /url: "#about"
+        - button "Help" [ref=e15] [cursor=pointer]
+      - generic [ref=e16]:
+        - button "Login" [ref=e17] [cursor=pointer]
+        - button "Get Started" [ref=e18] [cursor=pointer]
+  - main [ref=e21]:
+    - region [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - generic "India" [ref=e26]
+            - text: ONE PLATFORM. MANY POSSIBILITIES.
+          - heading "Find the Government Support That Fits Your Needs" [level=1] [ref=e30]:
+            - text: Find the Government Support That Fits
+            - generic [ref=e31]: Your Needs
+          - paragraph [ref=e32]: Discover central and state government schemes based on your profile. Get personalized recommendations, check eligibility, know required documents, and access official application links — all in one place.
+          - generic [ref=e33]:
+            - generic [ref=e34]: Search schemes by name, keyword or category
+            - searchbox "Search schemes by name, keyword or category" [ref=e38]
+            - button "Search" [ref=e39] [cursor=pointer]
+          - generic [ref=e40]:
+            - generic [ref=e41]: "Try searching:"
+            - button "Scholarships" [ref=e42] [cursor=pointer]
+            - button "Farmer support" [ref=e43] [cursor=pointer]
+            - button "Health insurance" [ref=e44] [cursor=pointer]
+          - generic [ref=e45]:
+            - button "Get Started" [ref=e46] [cursor=pointer]
+            - button "Explore Schemes" [ref=e49] [cursor=pointer]
+          - generic [ref=e52]:
+            - generic [ref=e53]: Citizen-first discovery
+            - generic [ref=e56]: Official source links
+            - generic [ref=e59]: Clear next steps
+        - generic [ref=e62]:
+          - img "Students, a farmer, a worker and an older Indian citizen together in front of a government building" [ref=e64]
+          - generic [ref=e72]:
+            - strong [ref=e73]: More opportunity.For every citizen.
+            - generic [ref=e74]: Your journey to support starts here.
+          - generic [ref=e78]: BUILT AROUND YOU
+    - generic [ref=e80]:
+      - generic [ref=e85]:
+        - strong [ref=e86]: Central & state schemes
+        - paragraph [ref=e87]: Support at every government level
+      - generic [ref=e95]:
+        - strong [ref=e96]: Life, in every category
+        - paragraph [ref=e97]: Explore opportunities for your needs
+      - generic [ref=e104]:
+        - strong [ref=e105]: Discovery across India
+        - paragraph [ref=e106]: Find support relevant to your location
+      - generic [ref=e112]:
+        - strong [ref=e113]: Official application links
+        - paragraph [ref=e114]: Continue with the relevant department
+    - region [ref=e115]:
+      - generic [ref=e116]:
+        - generic [ref=e117]:
+          - generic [ref=e118]: OPPORTUNITIES FOR EVERY STAGE OF LIFE
+          - heading "What matters to you?" [level=2] [ref=e119]
+          - paragraph [ref=e120]: Explore scheme categories and take the next step with confidence.
+        - button "Explore all categories" [ref=e121] [cursor=pointer]
+      - generic [ref=e124]:
+        - button "Education Scholarships, learning & skill development Explore support" [ref=e125] [cursor=pointer]:
+          - heading "Education" [level=3] [ref=e133]
+          - paragraph [ref=e134]: Scholarships, learning & skill development
+          - generic [ref=e135]: Explore support
+        - button "Healthcare Health coverage & medical assistance Explore support" [ref=e136] [cursor=pointer]:
+          - heading "Healthcare" [level=3] [ref=e144]
+          - paragraph [ref=e145]: Health coverage & medical assistance
+          - generic [ref=e146]: Explore support
+        - button "Employment Jobs, training & self-employment Explore support" [ref=e147] [cursor=pointer]:
+          - heading "Employment" [level=3] [ref=e156]
+          - paragraph [ref=e157]: Jobs, training & self-employment
+          - generic [ref=e158]: Explore support
+        - button "Agriculture Farmer support & agricultural opportunities Explore support" [ref=e159] [cursor=pointer]:
+          - heading "Agriculture" [level=3] [ref=e168]
+          - paragraph [ref=e169]: Farmer support & agricultural opportunities
+          - generic [ref=e170]: Explore support
+        - button "Housing Affordable homes & housing assistance Explore support" [ref=e171] [cursor=pointer]:
+          - heading "Housing" [level=3] [ref=e179]
+          - paragraph [ref=e180]: Affordable homes & housing assistance
+          - generic [ref=e181]: Explore support
+        - button "Social Welfare Support for families, women & senior citizens Explore support" [ref=e182] [cursor=pointer]:
+          - heading "Social Welfare" [level=3] [ref=e192]
+          - paragraph [ref=e193]: Support for families, women & senior citizens
+          - generic [ref=e194]: Explore support
+    - region [ref=e195]:
+      - generic [ref=e196]:
+        - generic [ref=e197]:
+          - generic [ref=e198]:
+            - generic [ref=e199]: A CLEAR PATH FORWARD
+            - heading "A little guidance. A lot of possibility." [level=2] [ref=e200]
+            - paragraph [ref=e201]: Here’s how SaharaSetu will help you move from discovery to your next step.
+          - generic [ref=e202]: Simple by design
+        - list [ref=e205]:
+          - listitem [ref=e206]:
+            - generic [ref=e207]: "01"
+            - heading "Create Your Account" [level=3] [ref=e215]
+            - paragraph [ref=e216]: Build your profile with a few basic details about you.
+          - listitem [ref=e217]:
+            - generic [ref=e218]: "02"
+            - heading "Find Relevant Schemes" [level=3] [ref=e230]
+            - paragraph [ref=e231]: Discover opportunities that match your profile and interests.
+          - listitem [ref=e232]:
+            - generic [ref=e233]: "03"
+            - heading "Check Eligibility" [level=3] [ref=e242]
+            - paragraph [ref=e243]: Understand the scheme rules and where you may qualify.
+          - listitem [ref=e244]:
+            - generic [ref=e245]: "04"
+            - heading "Get Application Guidance" [level=3] [ref=e252]
+            - paragraph [ref=e253]: Know the documents you need and where to apply officially.
+    - region "About recommendations" [ref=e254]:
+      - generic [ref=e255]:
+        - generic [ref=e256]: SUPPORT THAT STARTS WITH YOU
+        - heading "Your profile. Your possibilities." [level=2] [ref=e257]: Your profile.Your possibilities.
+        - paragraph [ref=e258]: With your consent, details like your location, life stage and interests will help surface more relevant opportunities.
+        - list [ref=e259]:
+          - listitem [ref=e260]: Recommendations based on your profile
+          - listitem [ref=e263]: Scheme requirements explained clearly
+          - listitem [ref=e266]: Documents and official next steps in one place
+        - button "Start your journey" [ref=e269] [cursor=pointer]
+      - generic [ref=e272]:
+        - generic [ref=e277]: CLEAR INFORMATION. RESPONSIBLE GUIDANCE.
+        - heading "Confidence comes from knowing the facts." [level=2] [ref=e278]: Confidence comesfrom knowing the facts.
+        - paragraph [ref=e279]: AI can help rank relevant opportunities and explain information. Eligibility must be checked against the scheme’s official rules.
+        - paragraph [ref=e283]: Final eligibility, document acceptance and approval are determined by the relevant government department.
+        - link "Visit the official myScheme portal" [ref=e284] [cursor=pointer]:
+          - /url: https://www.myscheme.gov.in/
+    - generic [ref=e288]:
+      - generic [ref=e289]:
+        - generic [ref=e290]: YOUR NEXT STEP COULD CHANGE EVERYTHING
+        - heading "Let’s find the support you need." [level=2] [ref=e291]
+        - paragraph [ref=e292]: Explore opportunities. Understand your options. Move forward.
+      - button "Explore Schemes" [ref=e293] [cursor=pointer]
+  - contentinfo [ref=e297]:
+    - generic [ref=e298]:
+      - generic [ref=e299]:
+        - link "SaharaSetu home" [ref=e300] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e301]:
+            - strong [ref=e302]: SaharaSetu
+            - generic [ref=e303]: Government Schemes Made Simple
+        - paragraph [ref=e304]: A simpler bridge between citizensand the support available to them.
+      - navigation "Footer navigation" [ref=e305]:
+        - strong [ref=e306]: Explore
+        - link "Home" [ref=e307] [cursor=pointer]:
+          - /url: /
+        - button "Schemes" [ref=e308] [cursor=pointer]
+        - link "How It Works" [ref=e309] [cursor=pointer]:
+          - /url: "#how-it-works"
+      - navigation "Support navigation" [ref=e310]:
+        - strong [ref=e311]: Support
+        - link "About SaharaSetu" [ref=e312] [cursor=pointer]:
+          - /url: "#about"
+        - button "Help & guidance" [ref=e313] [cursor=pointer]
+        - link "Official myScheme" [ref=e314] [cursor=pointer]:
+          - /url: https://www.myscheme.gov.in/
+      - generic [ref=e318]:
+        - generic [ref=e319]: Your information, your choice.
+        - paragraph [ref=e324]: This homepage preview does not collect profile data. Account features are planned for a later phase.
+    - generic [ref=e325]:
+      - generic [ref=e326]: © 2026 SaharaSetu. Government Schemes Made Simple.
+      - generic [ref=e327]: Independent project · Not a government website.
